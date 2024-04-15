@@ -41,7 +41,7 @@ body {
 }
 
 .nav-list-link:hover,
- .nav-list-link:focus {
+.nav-list-link:focus {
     color: #404bbf;
     
 }
